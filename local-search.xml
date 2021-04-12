@@ -4,17 +4,25 @@
   
   
   <entry>
-    <title>美女图集</title>
-    <link href="/2021/04/12/mn/"/>
-    <url>/2021/04/12/mn/</url>
+    <title>test文章名</title>
+    <link href="/2021/04/12/test/"/>
+    <url>/2021/04/12/test/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<p>这是一个美女<br><img src="https://cdn.jsdelivr.net/gh/zyimgblog/image@master/img93b4f00e30f595a020b0e7dc09338154.jpg"><br>这是第二个美女<br><img src="https://cdn.jsdelivr.net/gh/zyimgblog/image@master/img93b4f00e30f595a020b0e7dc09338154.jpg"><br><img src="https://cdn.jsdelivr.net/gh/zyimgblog/image@master/img93b4f00e30f595a020b0e7dc09338154.jpg"></p>]]></content>
     
+    
+    <categories>
+      
+      <category>测试分类</category>
+      
+    </categories>
     
     
     <tags>
       
-      <tag>美女,小姐姐</tag>
+      <tag>美女</tag>
+      
+      <tag>小姐姐</tag>
       
     </tags>
     
